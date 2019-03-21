@@ -1,6 +1,6 @@
 #ifndef JNITEST_H
 #define JNITEST_H
 
-void printLog();
+void Jni_printLog();
 
 #endif

@@ -12,5 +12,5 @@ public class JniTest {
         native_printLog();
     }
 
-    private native native_printLog();
+    private native void native_printLog();
 }
